@@ -84,7 +84,7 @@ Major LAN subnets include:
 This project was developed as a group project by:
 
 - Md. Fakhrul Abedin Shohrub
-- Afifa Ahmed(https://github.com/afifa-ahmed-ammun/afifa-ahmed-ammun)
+- Afifa Ahmed(https://github.com/afifa-ahmed-ammun)
 - Chowdhury Zawad Al Munawar()
 
 ## Academic Context
