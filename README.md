@@ -84,8 +84,8 @@ Major LAN subnets include:
 This project was developed as a group project by:
 
 - Md. Fakhrul Abedin Shohrub
-- Afifa Ahmed
-- Chowdhury Zawad Al Munawar
+- Afifa Ahmed()
+- Chowdhury Zawad Al Munawar()
 
 ## Academic Context
 
